@@ -1,4 +1,4 @@
-![User Coubt Logo](IMG_20240920-183041.jpg)
+(IMG_20240920_183041.jpg)
 
 ## 🌟 Show Your Support
 
