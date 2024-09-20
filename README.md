@@ -1,7 +1,10 @@
 <img src="IMG_20240920_183041.jpg" alt="Avatar">
-img{
+<style>
+  .img{
 border-radius: 50%;
 }
+</style>
+
 ## 🌟 Show Your Support
 
 If you find this project helpful, please consider giving it a star! ⭐
