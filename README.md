@@ -1,4 +1,4 @@
-![](IMG_20240920_183041.jpg =250x250)
+<img src="IMG_20240920_183041.jpg">
 ## 🌟 Show Your Support
 
 If you find this project helpful, please consider giving it a star! ⭐
