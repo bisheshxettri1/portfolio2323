@@ -1,5 +1,4 @@
-![Model](IMG_20240920_183041.jpg | width=200)
-
+![](IMG_20240920_183041.jpg =250x250)
 ## 🌟 Show Your Support
 
 If you find this project helpful, please consider giving it a star! ⭐
