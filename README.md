@@ -1,4 +1,4 @@
-(IMG_20240920_183041.jpg)
+![Model](IMG_20240920_183041.jpg)
 
 ## 🌟 Show Your Support
 
